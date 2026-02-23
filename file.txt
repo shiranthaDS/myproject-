@@ -1,2 +1,1 @@
-This is a sample text file for testing Node.js file reading functionality.
-Hello from file.txt!
+Hello World!
